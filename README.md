@@ -15,7 +15,7 @@ PDF Operations Tool is a simple, yet powerful desktop application for manipulati
 
 ### Executable Release (Recommended)
 
-1. Navigate to the "Releases" section of this repository.
+1. Navigate to the [Releases](https://github.com/oriavsapir/PDF-Splitter/releases)   section of this repository.
 2. Download the latest `.exe` file.
 3. Run the executable to launch the application. No installation required.
 
